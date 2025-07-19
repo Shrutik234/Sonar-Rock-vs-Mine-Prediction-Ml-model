@@ -26,6 +26,7 @@ Input prediction based on user-defined data
 Sonar Dataset
 
 👩‍💻 Author
+
 Shruti Khule
 Feel free to connect or contribute!
 
