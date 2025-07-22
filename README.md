@@ -8,7 +8,7 @@ Pandas & NumPy
 
 Scikit-learn
 
-Jupyter Notebook
+Google Colab
 
 📌 Features
 
